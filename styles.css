@@ -3,6 +3,7 @@
   margin: o;
   box-sizing: border-box;
   user-select: none;
+  touch-action: none;
 }
 body {
   background-color: black;
